@@ -4,13 +4,6 @@ A Chrome extension that summarizes YouTube videos using their transcripts and Ge
 
 ## Features
 
-- **Transcript Extraction:** Captures the YouTube video transcript.
-- **AI Summarization:** Uses Gemini AI to generate a concise summary.
-- **Easy to Use:** Simply click the "Summarize Video" button in the extension popup.
+- Transcript Extraction
+- AI Summarization: Uses Gemini AI to generate a concise summary.
 
-## Installation
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/youtube-summary.git
